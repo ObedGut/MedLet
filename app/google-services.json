@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453370785452",
+    "project_id": "medlet-lt2121",
+    "storage_bucket": "medlet-lt2121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453370785452:android:d374a3e758c9a13e057909",
+        "android_client_info": {
+          "package_name": "com.example.medlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453370785452-pofv18l5lsusb539lfof80fk54d9tj9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTV9HecSbwju93aKNX4LKYvEakRC1N14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453370785452-pofv18l5lsusb539lfof80fk54d9tj9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
